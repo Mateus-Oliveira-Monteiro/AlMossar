@@ -47,7 +47,7 @@ After passing the login screen, you can reserve a table, entering the customer's
 <br>
 <br>
 
-![final_62b9e524aad80200603a2fac_482368](https://user-images.githubusercontent.com/81173375/175999759-d897fe1b-cd10-4e4a-aa81-0268a923c7e7.gif)
+![final_62b9e524aad80200603a2fac_482368](https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/93a3b3b2-2b37-4678-9c4c-2e5bbe898d8b)
 <br>
 <br>
 <br>
