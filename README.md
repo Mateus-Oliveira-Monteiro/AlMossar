@@ -65,7 +65,7 @@ Local deployment only, you can use the dump of the databse to set the environmen
 ## Developers
 
 
-| [<img src="https://user-images.githubusercontent.com/81173375/173143781-8d0dfa7d-1d02-49e8-839e-a186046b3a98.jpeg" width=155><br><sub>Mateus Monteiro </sub>](https://github.com/Mateus-Oliveira-Monteiro) |  [<img src="https://user-images.githubusercontent.com/81173375/173147856-f353abba-882b-4e2e-8c0a-e2894e2f0076.jpeg" width=155><br><sub>Leonardo de Paiva </sub>](https://github.com/LeonardoBrandao01)
+| [<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/331b46cf-aaf1-4826-9111-1f5c97647ec4" width=155><br><sub>Mateus Monteiro </sub>](https://github.com/Mateus-Oliveira-Monteiro) |  [<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/a9de041f-be44-4fe4-98df-b28536234208" width=155><br><sub>Leonardo de Paiva </sub>](https://github.com/LeonardoBrandao01)
 | :---: | :---: 
 
 
