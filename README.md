@@ -48,13 +48,20 @@ After passing the login screen, you can reserve a table, entering the customer's
 <br>
 
 ![final_62b9e524aad80200603a2fac_482368](https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/93a3b3b2-2b37-4678-9c4c-2e5bbe898d8b)
+<br><br><br>
+<div>
+<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/3bab975c-a210-49a9-9af4-87d6d8cb64d3" width=500>
+<br><br><br>
+<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/3d25faf3-500c-4b46-b918-ac4f2b92e18f" width=500>
+<br><br><br>
+<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/713c58cb-92de-4b47-875b-c63f5a23d8ec" width=500>
+<br><br><br>
+<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/c3e10285-176b-41e6-8022-788233da6afb" width=500>
+<br><br><br>
+<img src="https://github.com/Mateus-Oliveira-Monteiro/AlMossar/assets/81173375/607de2a3-a1ae-4c79-bb55-c5d8437104f2" width=500>
+<br><br><br>
 <br>
-<br>
-<br>
-<br>
-![databaseprintblur](https://user-images.githubusercontent.com/81173375/175999885-aaa3bc21-6ea2-419f-b7b1-86aaa619fca9.jpg)
-<br>
-<br>
+</div>
 
 ## Application Deploy
 
