@@ -1,6 +1,6 @@
 <h1>AlMossar Interface</h1>
 
-Project Status: ✔️ Completed
+Project Status:  Completed ✔️
 <br>
 <h2>Languages Used</h2>
 <p align="left">
