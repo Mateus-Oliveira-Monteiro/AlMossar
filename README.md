@@ -6,7 +6,7 @@ Project Status: :heavy_check_mark: Completed
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySQL"/>             
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80" alt="CSHARP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="80" height="80" alt="CANVA"/>
+
           
 </p>
 
