@@ -12,7 +12,7 @@ namespace SistemaCadastro
 {
     internal class ConectaBanco
     {
-        MySqlConnection conexao = new MySqlConnection("server=localhost;user id=root;password=;database=almossar");
+        MySqlConnection conexao = new MySqlConnection("server=sql10.freemysqlhosting.net;user id=sql10669652;password=7NP5MLwf8S;database=sql10669652");
         public string mensagem;
 
         public bool insereReserva(Reserva novaReserva)
